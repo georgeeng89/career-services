@@ -1,0 +1,327 @@
+---
+- :ContainerType: Unit
+  :Title: Talking About Yourself
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/Unit-1-Overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/00-tell-your-story.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/000-frame-your-story.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/e01-thinking-about-yourself.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/01-Getting-Ready-to-Talk-about-Yourself.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/02-understanding-body-language.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/03-three-types-of-introductions.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/e02-navigating-the-introduction.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/04-talking-about-Galvanize.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/e03-interview-prep.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/05-Understanding-Your-Work-Style.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-1-Talking-About-Yourself/e04-work-styles.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Growth Mindset and Learning to Learn
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/00-Unit-Overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/01-Growth-Mindset.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/E01-Growth-vs-Fixed.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/02-Imposter-Syndrome-Dunning-Kruger.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/E02-Imposter-syndrome.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/03-Setting-the-stage.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/E03-setting-stage.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/04-play.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/E04-play.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/05-reflect.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Growth-Mindset/E05-Reflect.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Feedback
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/Unit-Overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/01-What-Why-Feedback.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/E01-What-Why-Feedback.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/02-ASK-Feedback.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/E02-ASK-Feedback.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/03-feedback-delivery.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/E03-Delivering%20Feedback.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/04-receiving-feedback.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Feedback/05-Implementing-Feedback.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: In-person Networking
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/00-Unit-2-Overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/01-What-is-networking.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/e01-why-networking.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/02-Networking-guidelines.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/e02-networking.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/03-Networking-Tips.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/04-Informational-Interviewing.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/e03-informational-interview-prep.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Unit-2-In-Person-Networking/e04-informational-interview-report.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Time Management
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/unit-overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/01-Intro.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/E01-Intro-Time-Management.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/02-Goals-Prioritization.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/E02-Goals-Prioritization.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/03-Planning-Calendaring.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/Time%20Management/E03-Planning-Calendaring.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Building Your Online Brand
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/online-brand-overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/01-understanding-online-brand.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/e01.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/02-linkedin.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/e02.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/03-reaching-out-online.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/e03.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/04-talent.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/05-github-profile.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/e04-github-profile.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/06-branding-through-content.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/e05-linkedin-article-proposal.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/unit-3-online-brand/07-twitter.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Job Application Toolkit
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/creating-your-resume.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/resume-styling.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/galvanize-on-resume.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/parts-of-resume.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/e01-create-your-resume.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/why-cover-letter.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/cover-letter-tips.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/cover-letter-format-examples.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/e02-create-cover-letter.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/talent-profile.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-toolkit/e03-create-talent-profile.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Job Application Process
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/growth-mindset-jobsearch.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/job-search-fundamentals.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/how-to-apply.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/targeting-companies.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/e01-job-search-questions.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/targeting-companies-resources.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/e02-list-of-companies.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/job-application-process/review-time-management.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Mastering the Interview
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/interview-basics.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/pre-interview-prep.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/recruiter-phone-screen.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/be-yourself.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/soft-skills-interview-basics.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/common-interview-questions.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/e01-soft-skills-practice.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/technical-interview-elements.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/data-science-takehome.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/technical-interview-resources.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/templates-for-communication.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/mastering-the-interview/interview-pitfalls.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Getting an Offer
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/negotiation-mindset.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/market-value.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/e01-salary-determination.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/getting-an-offer.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/negotiation.md
+    :Autoscore: false
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/getting-an-offer/tricky-situations.md
+    :Autoscore: false
+- :ContainerType: Unit
+  :Title: Starting a Job
+  :Description: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/starting-a-job/overview.md
+  :Contents:
+  - :Type: Lesson
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/starting-a-job/first-90-days.md
+    :Autoscore: false
+  - :Type: Exercise
+    :URL: https://github.com/gSchool/career-services/blob/master/TEST-CS-CD/starting-a-job/e01-first-90-days.md
+    :Autoscore: false
